@@ -52,7 +52,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sebastiangeorgbrunner@googlemail.com"
 phone = "+49 8153 28 3583"
-address = "Building 135, Department of Cognitive Robotics, Robotics and Mechatronics Center, Muenchener Str. 20, 82234 Wessling, Germany"
+address = "Department of Cognitive Robotics, Robotics and Mechatronics Center, Muenchener Str. 20, 82234 Wessling, Germany"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>Wednesday 09:00 to 10:00"""

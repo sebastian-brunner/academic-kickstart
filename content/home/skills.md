@@ -42,13 +42,13 @@ subtitle = ""
   icon = "java"
   icon_pack = "fab"
   name = "Java"
-  description = "50%"
+  description = "60%"
 
 [[feature]]
   icon = "sitemap"
   icon_pack = "fas"
   name = "state machines"
-  description = "90%"
+  description = "95%"
 
 [[feature]]
   icon = "code"
@@ -65,26 +65,26 @@ subtitle = ""
 [[feature]]
   icon = "html5"
   icon_pack = "fab"
-  name = "html"
+  name = "html, css"
   description = "60%"
   
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "OpenGL"
-  description = "50%"
+  description = "60%"
 
 [[feature]]
   icon = "cubes"
   icon_pack = "fas"
   name = "UML"
-  description = "70%"  
+  description = "80%"  
 
 [[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "OpenCL"
-  description = "40%"
+  description = "30%"
 
 # theory            
 
