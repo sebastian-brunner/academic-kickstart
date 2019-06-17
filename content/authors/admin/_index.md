@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Sebastian Brunner
 
 # Username (this should match the folder name)
 authors:
@@ -10,31 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Robotics & AI Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Institute of Robotics and Mechatronics
+  url: "https://www.dlr.de/rm/en"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include robotics, AI, and autonomous system architectures.
 
 interests:
+- Robotics
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Software Architectures for Autonomous Systems
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: Currently pursuing PHD in AI
+    institution: German Aerospace Center, Institute for Robotics and Mechatronics
+    year: since 2015
+  - course: MSc in Robotics and AI
+    institution: Technical University Munich, Germany
+    year: 2011
+  - course: Computer Science
+    institution: Lund University, Sweden
+    year: 2011
+  - course: BSc in Computer Science
+    institution: Technical University Munich, Germany
     year: 2008
 
 # Social/Academic Networking
@@ -42,18 +45,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/sebastian-brunner-89034312b/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.de/citations?user=LWTZbK0AAAAJ
+- icon: github
+  icon_pack: fab
+  link: https://github.com/sebastian-brunner
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -68,8 +71,9 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
+# He received his Master’s degree in Computer Science with major subject Artificial Intelligence and Robotics from the Technical University (TUM), Germany in 2014.
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Sebastian Brunner is a researcher at the Department of Cognitive Robotics of the Institute of Robotics and Mechatronics, German Aerospace Center (DLR).
+His current research interests include robotics, AI, and autonomous system architectures.
