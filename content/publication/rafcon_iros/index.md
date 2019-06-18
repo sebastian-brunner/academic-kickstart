@@ -29,7 +29,7 @@ abstract: Robotic tasks are becoming increasingly complex, and with this also th
 
 tags:
 - RAFCON
-- state machine
+- State Machines
 featured: true
 
 links:
