@@ -51,8 +51,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "sebastiangeorgbrunner@googlemail.com"
-phone = "+49 8153 28 3583"
-address = "Department of Cognitive Robotics, Robotics and Mechatronics Center, Muenchener Str. 20, 82234 Wessling, Germany"
+#phone = "+49 8153 28 3583"
+#address = "Department of Cognitive Robotics, Robotics and Mechatronics Center, Muenchener Str. 20, 82234 Wessling, Germany"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>Wednesday 09:00 to 10:00"""
@@ -69,6 +69,7 @@ contact_links = [
   #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "envelope", icon_pack = "fas", name = "sebastiangeorgbrunner [at] googlemail [dot] com", link = "mailto:sebastiangeorgbrunner [at] googlemail [dot] com"},
   ]
 
 # Display a map.
@@ -110,7 +111,7 @@ plugins_js  = []
 gravatar = false
 
 # Align the main menu to the right of the page? (true/false)
-menu_align_right = false
+menu_align_right = true
 
 # Show estimated reading time for posts? (true/false)
 reading_time = true
