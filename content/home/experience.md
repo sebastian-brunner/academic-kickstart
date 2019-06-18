@@ -28,7 +28,6 @@ date_format = "Jan 2006"
   description = """
   Research Interests:
   
-  * Artificial Intelligence
   * Autonomous Task Control
   * System Architectures
   * Semantic Planning
@@ -51,7 +50,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Working-Student"
-  company = "Fortiss"
+  company = "Fortiss Research Institute"
   company_url = "https://www.fortiss.org/"
   location = "Germany"
   date_start = "2012-02-01"

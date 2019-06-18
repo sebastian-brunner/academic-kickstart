@@ -19,33 +19,81 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  organization = "Graduate Program"
+  organization_url = "https://www.dlr.de/dlr/desktopdefault.aspx/tabid-10450/649_read-6933#/gallery/26723"
+  title = "Soft Skill Seminars"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2014-08-01"
+  date_end = "2019-06-20"
+  description = """
+  Various soft skill seminars in the areas:
+  
+  * Project Management
+  * Communication
+  * Effective Presentations
+  * Business Knigge
+  * Writing Scientific Papers
+  """
+
+[[item]]
+  organization = "Robocup"
+  organization_url = "https://www.robocup.org/"
+  title = "Finalist, Robocup Logistics League, Brazil"
+  url = ""
+  certificate_url = "https://ll.robocup.org/page-5/"
+  date_start = "2014-07-01"
+  date_end = ""
+  description = "Second Place in the Logistics League of the International Robotics Competition in Joao Pessoa (Brazil)"
+
+[[item]]
+  organization = "Robocup"
+  organization_url = "https://www.robocup.org/"
+  title = "First Place, Robocup Logistics League, Netherlands"
+  url = ""
+  certificate_url = "https://ll.robocup.org/page-5/"
+  date_start = "2013-07-01"
+  date_end = ""
+  description = "First Place in the Logistics League of the International Robotics Competition in Eindhoven (Netherlands)"
+
+[[item]]
+  organization = "Robocup"
+  organization_url = "https://www.robocup.org/"
+  title = "First Place, Robocup Logistics League, Mexico"
+  url = ""
+  certificate_url = "https://ll.robocup.org/page-5/"
+  date_start = "2012-07-01"
+  date_end = ""
+  description = "First Place in the Logistics League of the International Robotics Competition in Mexico City"
+
+[[item]]
+  organization = "Student Council MPI, TUM"
+  organization_url = "https://www.tum.de/"
+  title = "Award for Outstanding Student Projects"
+  url = ""
+  certificate_url = "https://mpi.fs.tum.de/die-fachschaft/preise/preis-fuer-hervorragende-studierendenprojekte-informatik/"
+  date_start = "2012-12-07"
+  date_end = ""
+  # description = "Award for outstanding student projects awarded by the Student Council MPI, TUM"
+
+[[item]]
+  organization = "DAAD"
+  organization_url = "https://www.daad.de"
+  title = "DAAD Student Exchange Scholarship"
+  #url = "https://www.erasmusprogramme.com/"
+  certificate_url = ""
+  date_start = "2011-07-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  organization = "IBM"
+  organization_url = "https://www.ibm.com/"
+  title = "IBM Certified Database Administrator"
   url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
-  description = ""
+  certificate_url = "https://www.ibm.com/certify"
+  date_start = "2010-03-22"
+  date_end = ""
+  description = "DB2 9 for Linux, UNIX and Windows"
 
 +++
