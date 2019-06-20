@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   Tasks:
   
   * Spacemous (3D mouse) integration for mobile robot control
-  * Development of math library for non-linearly 3D-pose transformation including their covariances
+  * Development of math library for non-linear 3D-pose transformation including their covariances
   """
 
 [[experience]]
@@ -72,9 +72,11 @@ date_format = "Jan 2006"
   date_start = "2012-01-01"
   date_end = "2014-03-31"
   description = """
-  Master of Science in Robotics and AI
+  Master of Science in Computer Science
   <br>
-  Passed with Distinction (Grade 1.3)
+  Focus: Robotics and AI
+  <br>
+  Passed with Distinction
   """
   
 [[experience]]

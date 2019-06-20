@@ -30,7 +30,7 @@ education:
   - course: Currently pursuing PHD in AI
     institution: German Aerospace Center, Institute for Robotics and Mechatronics
     year: since 2015
-  - course: MSc in Robotics and AI
+  - course: MSc in Computer Science
     institution: Technical University Munich, Germany
     year: 2011
   - course: Computer Science

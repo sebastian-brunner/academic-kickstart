@@ -18,8 +18,10 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
+# TODO: Upload certificates
+
 [[item]]
-  organization = "Graduate Program"
+  organization = "Graduate Program at DLR"
   organization_url = "https://www.dlr.de/dlr/desktopdefault.aspx/tabid-10450/649_read-6933#/gallery/26723"
   title = "Soft Skill Seminars"
   url = ""
@@ -44,7 +46,13 @@ date_format = "Jan 2006"
   certificate_url = "https://ll.robocup.org/page-5/"
   date_start = "2014-07-01"
   date_end = ""
-  description = "Second Place in the Logistics League of the International Robotics Competition in Joao Pessoa (Brazil)"
+  description = """
+  Second Place in the Logistics League of the International Robotics Competition in Joao Pessoa (Brazil)
+  <br>
+  Team: TUMsBendingUnits
+  <br>
+  Affiliation: German Aerospace Center
+  """
 
 [[item]]
   organization = "Robocup"
@@ -54,7 +62,13 @@ date_format = "Jan 2006"
   certificate_url = "https://ll.robocup.org/page-5/"
   date_start = "2013-07-01"
   date_end = ""
-  description = "First Place in the Logistics League of the International Robotics Competition in Eindhoven (Netherlands)"
+  description = """
+  First Place in the Logistics League of the International Robotics Competition in Eindhoven (Netherlands)
+  <br>
+  Team: TUMsBendingUnits
+  <br>
+  Affiliation: Technical University Munich
+  """
 
 [[item]]
   organization = "Robocup"
@@ -64,7 +78,13 @@ date_format = "Jan 2006"
   certificate_url = "https://ll.robocup.org/page-5/"
   date_start = "2012-07-01"
   date_end = ""
-  description = "First Place in the Logistics League of the International Robotics Competition in Mexico City"
+  description = """
+  First Place in the Logistics League of the International Robotics Competition in Mexico City
+  <br>
+  Team: TUMsBendingUnits
+  <br>
+  Affiliation: Technical University Munich
+  """
 
 [[item]]
   organization = "Student Council MPI, TUM"
