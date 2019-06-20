@@ -1,6 +1,6 @@
 ---
 title: Semantic World Model
-summary: Semantic World Model based on a Graph Database
+summary: Semantic world model based on a graph database
 tags:
 - Software
 - Graph Database
@@ -44,6 +44,8 @@ url_video: ""
 # not added text: This is done via a so called object-graph-mapping (OGM) using the neomodel library \footnote{\url{https://github.com/robinedwards/neomodel}}.
 
 # Two examples would be 1) the GeometricScene-Adapter, which provides services to get a reduced object tree with everything relevant for building a geometric scene representation for motion planning, and 2) a ROS-Tf-Adapter, which takes care of periodically publishing the world as ROS-Tf-tree as well as updating externally published transformations (for example robot\_flange => robot\_base) in the world model.
+
+# TODO: shorten text
 ---
 
 The world model is implemented using the graph database Neo4j (https://neo4j.com/) as backend.
@@ -54,7 +56,7 @@ We define and ensure a common type-system for objects in the world, by defining 
 
 A database as backend in general provides useful features to keep the world model consistent at any time, e.g. synchronized multi-client read-/write-access and transaction support for batching multiple modifications into an atomic operation.
 In particular, we use transactions with pre-/post-transaction sanity checks to allow complex yet safe operations on the world model. In case of a software error or violated sanity checks (e.g. a world model object suddenly has two parents), the world model is automatically rolled back to the consistent state before this modification.
-As a graph database, Neo4j offers a pattern-related query language called \textit{CYPHER}, which makes it very easy to query the world model for e.g. "all rigid bodies for which a grasp is defined."
+As a graph database, Neo4j offers a pattern-related query language called CYPHER, which makes it very easy to query the world model for e.g. "all rigid bodies for which a grasp is defined."
 
 We use YAML-files as a human read-/writeable way to specify the initial world model, but also complex object templates (e.g. complete subgraphs of PhysicalObjects together with attached Grasps and Markers, etc.). To add such templates into the world model, we developed a domain-specific module and API for higher level operations based on the raw CYPHER-access to the database.
 Other more complex operations include querying the relative transformation between arbitrary objects in the graph or maintaining unique labels for nodes. This API is the basis for several adapter modules which make operations accessible via ROS services. New functionality or composite operations can be added in a modular way by writing additional adapters as necessary.

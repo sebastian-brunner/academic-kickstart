@@ -1,12 +1,14 @@
 ---
-title: Bundle Adjustment on FPGAs
-summary: Logistics League, International Robocup
+title: Bundle Adjustment
+summary: Multicore sparse bundle adjustment on FPGAs, GPUs and CPUs
 tags:
 - Software
 - Bundle Adjustment
 - SLAM
 - Computer Vision
 - C++
+- OpenCL
+- OpenGL
 date: "2014-03-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

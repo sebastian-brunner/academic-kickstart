@@ -47,6 +47,6 @@ NLCT is a lightweight library written in C++ to:
 * compute the composition of multiple certain and uncertain poses
 * transform the covariance of a pose from one coordinate frame into another
 
-For all functions the user can choose the computation method: UNSCENTED, JACOBIAN, SAMPLING. The computation methods are a trade-off between accuracy and computation speed. The library includes functions for normalization, representation conversions and pose transformations (like composition, inversion etc.).
+For all functions the user can choose the computation method: UNSCENTED, JACOBIAN, SAMPLING. The computation methods are a trade-off between accuracy and computation speed. The library includes functions for normalization, representation conversion and pose transformation (like composition, inversion etc.).
 
 

@@ -1,6 +1,6 @@
 ---
 title: RAFCON
-summary: Implementing complex, autonomous robotic behavior using an intuitive graphical interface and python
+summary: Implementing complex, autonomous robotic behavior using an intuitive graphical interface
 tags:
 - Software
 - RAFCON
