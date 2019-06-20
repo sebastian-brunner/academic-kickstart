@@ -31,7 +31,7 @@ abstract: Robot task programming often leads to inefficient plans, as opportunit
 
 tags:
 - RAFCON
-- Autonomous Agents
+- Autonomy
 - Planning
 - Scheduling
 featured: false

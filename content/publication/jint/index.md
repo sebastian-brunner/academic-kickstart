@@ -50,10 +50,11 @@ abstract: Planetary exploration poses many challenges for a robot system. From w
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- LRU
 - Space
 - Autonomy
 - RAFCON
+- ROS
+- Robotics
 featured: false
 
 # links:

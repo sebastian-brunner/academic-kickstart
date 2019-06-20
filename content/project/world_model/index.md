@@ -4,7 +4,7 @@ summary: Semantic World Model based on a Graph Database
 tags:
 - Software
 - Graph Database
-- Semantic Knowledge
+- Semantic Knowledge Base
 date: "2014-02-10T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
