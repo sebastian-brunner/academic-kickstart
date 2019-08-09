@@ -13,7 +13,7 @@ date: "2014-02-10T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Sponza Pointcloud during Optimization
+  caption: Pose covariances after nonlinear transformation; ellipsoid + sample representation
   focal_point: Center
 
 links:
