@@ -41,7 +41,7 @@ url_video: ""
 
 ---
 
-NLCT is a lightweight library written in C++ to:
+NLCT is short for Non-Linear Covariance Transform library. It is a fast and lightweight library written in C++ to:
 
 * convert the covariance matrices for poses between different representations: Quaternions, Euler Angle (both fixed and moving frames)
 * compute the composition of multiple certain and uncertain poses
