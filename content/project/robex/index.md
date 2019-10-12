@@ -3,6 +3,8 @@ title: Robex
 summary: Moon-analogue demonstration mission on Mt. Etna, Sicily
 tags:
 - Robotics
+- Robotics
+- Mobile
 - Autonomy
 - System Architecture
 - Space

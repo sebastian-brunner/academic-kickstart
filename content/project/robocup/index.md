@@ -4,6 +4,7 @@ summary: Logistics League, International Robocup
 tags:
 - Robotics
 - Multirobot
+- Mobile
 - ROS
 - Computer Vision
 - Navigation
