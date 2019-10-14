@@ -67,7 +67,7 @@ url_pdf: https://doi.org/10.1007/s10846-017-0680-9
 #url_project: ''
 #url_slides: ''
 #url_source: ''
-#url_video: ''
+url_video: 'https://www.youtube.com/watch?v=wCTkSxcna8o'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

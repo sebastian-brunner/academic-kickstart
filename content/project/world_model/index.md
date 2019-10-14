@@ -22,7 +22,7 @@ links:
 #  name: Team Homepage
 #  url: https://www.bbunits.de/
 url_code: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/document/8396726"
 url_slides: ""
 url_video: ""
 
