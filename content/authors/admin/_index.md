@@ -72,8 +72,9 @@ user_groups:
 - Researchers
 - Visitors
 
-# He received his Master’s degree in Computer Science with major subject Artificial Intelligence and Robotics from the Technical University (TUM), Germany in 2014.
+# I received my  Master’s degree in Computer Science with major subject Artificial Intelligence and Robotics from the Technical University (TUM), Germany in 2014.
+
 ---
 
-Sebastian Brunner is a researcher at the Department of Cognitive Robotics in the Institute of Robotics and Mechatronics, German Aerospace Center (DLR).
-His current research interests include robotics, AI, and autonomous system architectures.
+I am researcher at the Department of Cognitive Robotics at the Institute of Robotics and Mechatronics, German Aerospace Center (DLR).
+My current research interests include robotics, AI, and autonomous system architectures.

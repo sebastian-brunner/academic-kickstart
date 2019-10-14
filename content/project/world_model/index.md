@@ -51,7 +51,7 @@ url_video: ""
 The world model is implemented using the graph database Neo4j (https://neo4j.com/) as backend.
 Neo4j represents data using a property-graph model, meaning the database is a graph composed of nodes and interconnected by edges, both of which can store arbitrary properties in a key-value fashion.
 For our world model, we directly represent objects in the world model as nodes in the database graph and correspondingly edges in the graph build up the world model tree structure.
-The relative position and orientation between two objects are stored as properties of the connecting edge.
+The relative position and orientation between two objects is stored as properties of the connecting edge.
 We define and ensure a common type-system for objects in the world, by defining a type-hierarchy with precisely listed required and optional properties for each object type (e.g. every PhysicalObject has to have a mass; every Grasp a width and force).
 
 A database as backend in general provides useful features to keep the world model consistent at any time, e.g. synchronized multi-client read-/write-access and transaction support for batching multiple modifications into an atomic operation.

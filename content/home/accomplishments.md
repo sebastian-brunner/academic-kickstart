@@ -88,7 +88,7 @@ date_format = "Jan 2006"
 
 [[item]]
   organization = "Student Council MPI, TUM"
-  organization_url = "https://www.tum.de/"
+  organization_url = "https://www.tum.de/en/"
   title = "Award for Outstanding Student Projects"
   url = ""
   certificate_url = "https://mpi.fs.tum.de/die-fachschaft/preise/preis-fuer-hervorragende-studierendenprojekte-informatik/"

@@ -44,14 +44,14 @@ date_format = "Jan 2006"
   description = """
   Tasks:
   
-  * Spacemous (3D mouse) integration for mobile robot control
+  * Spacemouse (3D mouse) integration for mobile robot control
   * Development of math library for non-linear 3D-pose transformation including their covariances
   """
 
 [[experience]]
   title = "Working-Student"
   company = "Fortiss Research Institute"
-  company_url = "https://www.fortiss.org/"
+  company_url = "https://www.fortiss.org/en/"
   location = "Germany"
   date_start = "2012-02-01"
   date_end = "2013-09-30"
@@ -67,7 +67,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Master-Student"
   company = "Technical University Munich"
-  company_url = "https://www.tum.de/"
+  company_url = "https://www.tum.de/en/"
   location = "Germany"
   date_start = "2012-01-01"
   date_end = "2014-03-31"
@@ -82,7 +82,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Exchange-Student"
   company = "Lund University"
-  company_url = "https://www.lth.se/"
+  company_url = "https://www.lth.se/english/"
   location = "Sweden"
   date_start = "2011-08-01"
   date_end = "2011-12-15"
@@ -96,7 +96,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Tutor"
   company = "Technical University Munich"
-  company_url = "https://www.tum.de/"
+  company_url = "https://www.tum.de/en/"
   location = "Germany"
   date_start = "2010-04-01"
   date_end = "2011-03-31"
@@ -111,7 +111,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Bachelor-Student"
   company = "Technical University Munich"
-  company_url = "https://www.tum.de/"
+  company_url = "https://www.tum.de/en/"
   location = "Germany"
   date_start = "2008-10-01"
   date_end = "2011-07-31"

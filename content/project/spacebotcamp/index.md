@@ -39,7 +39,7 @@ url_video: "https://www.youtube.com/watch?v=wCTkSxcna8o"
 
 In the SpacebotCamp, our mobile robotic system had to explore an unknwon area, find two objects and bring them to a third object for assembly. All tasks had to be done with a high level of autonomy since communication was delayed by 2 seconds and sending commands was limited to only a few occasions. The whole task had to be done in 60 minutes.
 
-Our team, RMexplores!, was the only team that fulfilled all tasks within the given specification. This was accomplished in halve of the time!
+Our team, RMexplores!, was the only team that fulfilled all tasks within the given specification. This was accomplished in half of the time!
 
 
 My responsibilities: Autonomous Task Control, System Architecture
