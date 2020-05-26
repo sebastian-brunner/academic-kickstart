@@ -27,18 +27,18 @@ interests:
 
 education:
   courses:
-  - course: Currently pursuing PHD in AI
-    institution: German Aerospace Center, Institute for Robotics and Mechatronics
+  - course: PHD in Artificial Intelligence
+    institution: Institute for Robotics and Mechatronics at DLR and University Bremen
     year: since 2015
   - course: MSc in Computer Science
     institution: Technical University Munich, Germany
-    year: 2011
-  - course: Computer Science
+    year: 2012 - 2014
+  - course: Exchange Semester
     institution: Lund University, Sweden
     year: 2011
   - course: BSc in Computer Science
     institution: Technical University Munich, Germany
-    year: 2008
+    year: 2008 - 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
