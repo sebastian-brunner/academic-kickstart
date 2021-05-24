@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Robotics Software Engineer, Group Lead: Human-Robot Interfaces"
+  title = "Senior Software Engineer, Robotics & Team Lead: Task Control Interfaces"
   company = "Agile Robots AG"
   company_url = "https://www.agile-robots.com/"
   location = "Germany"
@@ -28,11 +28,11 @@ date_format = "Jan 2006"
   description = """
   Research Interests:
   
-  * Human Robot Interaction
   * Autonomous Task Control
   * System Architectures
-  * GUIs for Robot Programming
-  * Semantic World Models
+  * Robot Programming Interfaces
+  * Human Robot Interaction
+  * Belief State Modeling
   """
 
 [[experience]]

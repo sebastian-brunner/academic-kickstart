@@ -10,12 +10,13 @@ authors:
 superuser: true
 
 # Role/position
-role: Robotics & AI Researcher
+# role: Robotics & AI Researcher
+role: Senior Software Engineer, Robotics
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Robotics and Mechatronics
-  url: "https://www.dlr.de/rm/en"
+- name: Agile Robots AG
+  url: "https://www.agile-robots.com/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include robotics, AI, and autonomous system architectures.
@@ -29,7 +30,7 @@ education:
   courses:
   - course: PHD in Artificial Intelligence
     institution: Institute for Robotics and Mechatronics at DLR and University Bremen
-    year: since 2015
+    year: 2015 - 2020
   - course: MSc in Computer Science
     institution: Technical University Munich, Germany
     year: 2012 - 2014
@@ -73,8 +74,12 @@ user_groups:
 - Visitors
 
 # I received my  Master’s degree in Computer Science with major subject Artificial Intelligence and Robotics from the Technical University (TUM), Germany in 2014.
+# I am researcher at the Department of Cognitive Robotics at the Institute of Robotics and Mechatronics, German Aerospace Center (DLR). 
+# My current research interests include robotics, AI, and autonomous system architectures.
 
 ---
 
-I am researcher at the Department of Cognitive Robotics at the Institute of Robotics and Mechatronics, German Aerospace Center (DLR).
-My current research interests include robotics, AI, and autonomous system architectures.
+Experienced researcher and engineer with a demonstrated history of working in the robotics industry.
+Skilled in Python, C++ and Software Engineering.
+Strong educational background with a Master of Science (M.Sc.) in Computer Science from Technical University Munich and a PhD (Dr.-Ing.) in Artificial Intelligence at the Chair of Artificial Intelligence at University Bremen.
+Author of several papers and software packages, most notable the [RAFCON](https://dlr-rm.github.io/RAFCON/) task control framework.
