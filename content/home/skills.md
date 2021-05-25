@@ -38,17 +38,17 @@ subtitle = ""
   name = "Linux"
   description = "80%"
   
-[[feature]]
-  icon = "java"
-  icon_pack = "fab"
-  name = "Java"
-  description = "60%"
-
 #[[feature]]
-#  icon = "sitemap"
-#  icon_pack = "fas"
-#  name = "State Machines"
-#  description = "95%"
+#  icon = "java"
+#  icon_pack = "fab"
+#  name = "Java"
+#  description = "60%"
+
+[[feature]]
+  icon = "sitemap"
+  icon_pack = "fas"
+  name = "State Machines"
+  description = "95%"
   
 [[feature]]
   icon = "adobe"
@@ -59,7 +59,7 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Latex"
+  name = "GraphQL"
   description = "90%"
   
 [[feature]]
@@ -89,8 +89,14 @@ subtitle = ""
 [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "OpenGL/CL"
+  name = "Django"
   description = "60%"
+
+# [[feature]]
+#   icon = "code"
+#   icon_pack = "fas"
+#   name = "OpenGL/CL"
+#   description = "60%"
 
 # theory            
 
