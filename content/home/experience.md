@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = "https://www.dlr.de/rm/en"
   location = "Germany"
   date_start = "2014-03-31"
-  date_end = ""
+  date_end = "2020-02-29"
   description = """
   Research Interests:
   
